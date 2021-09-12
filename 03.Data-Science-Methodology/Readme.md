@@ -32,18 +32,20 @@ Accordingly, in this course, you will learn:
 
 In this module, you will learn about why we are interested in data science, what a methodology is, and why data scientists need a methodology. You will also learn about the data science methodology and its flowchart. You will learn about the first two stages of the data science methodology, namely Business Understanding and Analytic Approach. Finally, through a lab session, you will also obtain how to complete the Business Understanding and the Analytic Approach stages and the Data Requirements and Data Collection stages pertaining to any data science problem.
 
-- 5 videos, 3 readings
-    1. **Reading:** Syllabus
-    2. **[Video:** Welcome](https://www.coursera.org/lecture/data-science-methodology/welcome-lMNmc)
-    3. **Ungraded Plugin:** Introduction to CRISP - DM
-    4. **Video:** Business Understanding
-    5. **Video:** Analytic Approach
-    6. **LTI Item:** Lab: From Problem to Approach
-    7. **Reading:** Lesson Summary
-    8. **Video:** Data Requirements
-    9. **Video:** Data Collection
-    10. **LTI Item:** From Requirements to Collection
-    11. **Reading:** Lesson Summary
+<details>
+<summary>5 videos, 3 readings</summary>
+1. **Reading:** Syllabus
+2. [Video: Welcome](https://www.coursera.org/lecture/data-science-methodology/welcome-lMNmc)
+3. **Ungraded Plugin:** Introduction to CRISP - DM
+4. **Video:** Business Understanding
+5. **Video:** Analytic Approach
+6. **LTI Item:** Lab: From Problem to Approach
+7. **Reading:** Lesson Summary
+8. **Video:** Data Requirements
+9. **Video:** Data Collection
+10. **LTI Item:** From Requirements to Collection
+11. **Reading:** Lesson Summary
+</details>
 
 ## Week 2
 
@@ -51,18 +53,20 @@ In this module, you will learn about why we are interested in data science, what
 
 In this module, you will learn what it means to understand data, and prepare or clean data. You will also learn about the purpose of data modeling and some characteristics of the modeling process. Finally, through a lab session, you will learn how to complete the Data Understanding and the Data Preparation stages, as well as the Modeling and the Model Evaluation stages pertaining to any data science problem.
 
-- 6 videos, 3 readings
-    1. **[Video:** Data Understanding](https://www.coursera.org/lecture/data-science-methodology/data-understanding-4NFql)
-    2. **Video:** Data Preparation - Concepts
-    3. **Reading:** Correction
-    4. **Video:** Data Preparation - Case Study
-    5. **LTI Item:** From Understanding to Preparation
-    6. **Reading:** Lesson Summary
-    7. **Video:** Modeling - Concepts
-    8. **Video:** Modeling - Case Study
-    9. **Video:** Evaluation
-    10. **LTI Item:** From Modeling to Evaluation
-    11. **Reading:** Lesson Summary
+<details>
+<summary>6 videos, 3 readings</summary>
+1. **[Video:** Data Understanding](https://www.coursera.org/lecture/data-science-methodology/data-understanding-4NFql)
+2. **Video:** Data Preparation - Concepts
+3. **Reading:** Correction
+4. **Video:** Data Preparation - Case Study
+5. **LTI Item:** From Understanding to Preparation
+6. **Reading:** Lesson Summary
+7. **Video:** Modeling - Concepts
+8. **Video:** Modeling - Case Study
+9. **Video:** Evaluation
+10. **LTI Item:** From Modeling to Evaluation
+11. **Reading:** Lesson Summary
+</details>
 
 ## Week 3
 
@@ -70,9 +74,11 @@ In this module, you will learn what it means to understand data, and prepare or 
 
 In this module, you will learn about what happens when a model is deployed and why model feedback is important. Also, by completing a peer-reviewed assignment, you will demonstrate your understanding of the data science methodology by applying it to a problem that you define.
 
-- 3 videos, 2 readings
-    1. **[Video:** Deployment](https://www.coursera.org/lecture/data-science-methodology/deployment-qNosf)
-    2. **Video:** Feedback
-    3. **Video:** Course Summary
-    4. **Reading:** Lesson Summary
-    5. **Reading:** IBM Digital Badge
+<details>
+<summary>3 videos, 2 readings</summary>
+1. **[Video:** Deployment](https://www.coursera.org/lecture/data-science-methodology/deployment-qNosf)
+2. **Video:** Feedback
+3. **Video:** Course Summary
+4. **Reading:** Lesson Summary
+5. **Reading:** IBM Digital Badge
+</details>
