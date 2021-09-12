@@ -34,6 +34,7 @@ In this module, you will learn about why we are interested in data science, what
 
 <details>
 <summary>5 videos, 3 readings</summary>
+  
 1. **Reading:** Syllabus
 2. [Video: Welcome](https://www.coursera.org/lecture/data-science-methodology/welcome-lMNmc)
 3. **Ungraded Plugin:** Introduction to CRISP - DM
@@ -55,7 +56,8 @@ In this module, you will learn what it means to understand data, and prepare or 
 
 <details>
 <summary>6 videos, 3 readings</summary>
-1. **[Video:** Data Understanding](https://www.coursera.org/lecture/data-science-methodology/data-understanding-4NFql)
+  
+1. [Video: Data Understanding](https://www.coursera.org/lecture/data-science-methodology/data-understanding-4NFql)
 2. **Video:** Data Preparation - Concepts
 3. **Reading:** Correction
 4. **Video:** Data Preparation - Case Study
@@ -76,7 +78,8 @@ In this module, you will learn about what happens when a model is deployed and w
 
 <details>
 <summary>3 videos, 2 readings</summary>
-1. **[Video:** Deployment](https://www.coursera.org/lecture/data-science-methodology/deployment-qNosf)
+  
+1. [Video: Deployment](https://www.coursera.org/lecture/data-science-methodology/deployment-qNosf)
 2. **Video:** Feedback
 3. **Video:** Course Summary
 4. **Reading:** Lesson Summary
