@@ -2,18 +2,19 @@
 
 The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is today.
 
-| Title       |  Description                                          |
 |-------------|-------------------------------------------------------|
 |Basic Info   |Course 1 of 10 in the IBM Data Science Specialization  |
 |Level        |Beginner                                               |
 |Commitment   |3 weeks of study, 2-3 hours/week                       |
 |How to Pass  |Pass all graded assignments to complete the course.    |
 |User Ratings |Average User Rating 4.7                                | 
-## Instructors
-| Name                                                   |  
+
+## Instructors 
 |--------------------------------------------------------|
 |Rav Ahuja, Global Program Director IBM Skills Network   |
 |Alex Aklson, Ph.D., Data Scientist                      |
+
+
 # Week 1
 
 ## Defining Data Science and What Data Scientists Do
