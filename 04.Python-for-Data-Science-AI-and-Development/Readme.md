@@ -23,6 +23,12 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 
 ### Python Basics
 
+Learning **Objectives**
+
+- Demonstrate an understanding of types in python by converting/casting data types: strings, floats, integers.
+- Interpret variables and solve expressions by applying mathematical operations.
+- Describe how to manipulate strings by using a variety of methods and operations.
+
 <details>
 <summary>3 videos, 1 reading</summary>
 
@@ -45,6 +51,13 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 ## Week 2
 
 ### Python Data Structures
+
+**Learning Objectives**
+
+- Describe and manipulate tuple combinations and list data structures.
+- Apply your knowledge of lists using JupyterLab.
+- Apply your knowledge of tuples using JupyterLab.
+
 <details>
 <summary>3 videos</summary>
 
@@ -66,6 +79,13 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 ## Week 3
 
 ### Python Programming Fundamentals
+
+**Learning Objectives**
+
+- Classify conditions and branching by identifying structured scenarios with outputs.
+- Understand loops by using visual examples and comparing them to tuples and lists.
+- Understand functions by building a function using inputs and outputs.
+- Explain objects and classes by identifying data types and creating a class.
 
 <details>
 <summary>4 videos</summary>
@@ -93,6 +113,13 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 ## Week 4
 
 ### Working with Data in Python
+
+**Learning Objectives**
+
+- Demonstrate reading files with an open function using JupyterLab.
+- Demonstrate writing files with an open function using JupyterLab.
+- Explain how Pandas use data frames.
+- Demonstrate how to use NumPy to create multi-dimensional arrays.
 
 <details>
 <summary>8 videos</summary>
@@ -131,6 +158,10 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 ## Week 5
 
 ### Analyzing US Economic Data and Building a Dashboard
+
+**Learning Objectives**
+
+- Create a dashboard that shows key economic indicators from a specific data set.
 
 <details>
 <summary>1 reading</summary>
