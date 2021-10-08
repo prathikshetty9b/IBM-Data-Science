@@ -544,6 +544,7 @@ make_dashboard(x,gdp_change,unemployment,title,file_name)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
 <ing src="./Dashboard.jpg" />
+![Dashboard](~/Dashboard.jpg "Dashboard")
 
 
 
