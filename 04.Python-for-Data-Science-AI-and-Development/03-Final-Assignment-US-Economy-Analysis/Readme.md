@@ -543,7 +543,7 @@ make_dashboard(x,gdp_change,unemployment,title,file_name)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
-
+<ing src="./Dashboard.jpg">
 
 
 
@@ -552,26 +552,6 @@ make_dashboard(x,gdp_change,unemployment,title,file_name)
 
 
 <div class="bk-root" id="a23dd8c1-7842-4cb5-93f7-2a6d9f8fbb30" data-root-id="1003"></div>
-
-
-
-
-
-<h2 id="Section_5">  How to submit </h2>
-
-
-<p>Once you complete your notebook you will have to share it to be marked. Select the icon on the top right a marked in red in the image below, a dialogue box should open, select the option all&nbsp;content excluding sensitive code cells.</p>
-
-<p><img height="440" width="700" src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/FinalModule_Coursera/images/share_notebook.png" alt="share notebook" /></p>
-<p></p>
-
-<p>You can then share the notebook&nbsp; via a&nbsp; URL by scrolling down as shown in the following image:</p>
-<p style="text-align: center;"> <img height="308" width="350" src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/FinalModule_Coursera/images/url_notebook.png"  alt="share notebook" /> </p>
-
-
-<hr>
-<p>Copyright &copy; 2019 IBM Developer Skills Network. This notebook and its source code are released under the terms of the <a href="https://cognitiveclass.ai/mit-license/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01">MIT License</a>.</p>
-
 
 <h2>About the Authors:</h2> 
 
