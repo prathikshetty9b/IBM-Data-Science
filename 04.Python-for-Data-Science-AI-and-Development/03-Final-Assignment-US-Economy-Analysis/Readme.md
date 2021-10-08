@@ -543,14 +543,7 @@ make_dashboard(x,gdp_change,unemployment,title,file_name)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
-<ing src="./Dashboard.jpg" />
-[Dashboard](https://github.com/prathikshetty9b/IBM-Data-Science/blob/main/04.Python-for-Data-Science-AI-and-Development/03-Final-Assignment-US-Economy-Analysis/Dashboard.jpg)
-
-
-
-
-
-
+<ing src="https://github.com/prathikshetty9b/IBM-Data-Science/blob/main/04.Python-for-Data-Science-AI-and-Development/03-Final-Assignment-US-Economy-Analysis/Dashboard.jpg" />
 
 <div class="bk-root" id="a23dd8c1-7842-4cb5-93f7-2a6d9f8fbb30" data-root-id="1003"></div>
 
