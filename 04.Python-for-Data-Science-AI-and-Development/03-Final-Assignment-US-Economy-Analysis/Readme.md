@@ -543,7 +543,7 @@ make_dashboard(x,gdp_change,unemployment,title,file_name)
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
 
-<ing src="./Dashboard.jpg">
+<ing src="./Dashboard.jpg" />
 
 
 
