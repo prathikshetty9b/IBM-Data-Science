@@ -870,7 +870,7 @@ make_graph(tesla_data,tesla_revenue,"Tesla")
 ```
 
 <center>
-    <img src="output_49_1"  />
+    <img src="output_49_1.png"  />
 </center>
 
 ## Question 6: Plot GameStop Stock Graph
@@ -884,7 +884,7 @@ Use the `make_graph` function to graph the GameStop Stock Data, also provide a t
 make_graph(gme_data,gme_revenue,"GameStop")
 ```
 <center>
-    <img src="output_52_0"  />
+    <img src="output_52_0.png"  />
 </center>
 
 
