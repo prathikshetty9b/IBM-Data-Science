@@ -28,7 +28,7 @@
 
 **Task 5B:** Retrieve all rows in the INSTRUCTOR table
 
-## Solution
+## Queries
 
 **Task 0:** Drop the table INSTRUCTOR from the database in case it already exists, so that we start from a clean state.
 
