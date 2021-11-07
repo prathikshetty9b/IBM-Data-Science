@@ -1,6 +1,6 @@
-## Basic SQL Queries
+# Basic SQL Queries
 
-### Task List
+## Task List
 
 **Task 0:** Drop the table INSTRUCTOR from the database in case it already exists, so that we start from a clean state.
 
