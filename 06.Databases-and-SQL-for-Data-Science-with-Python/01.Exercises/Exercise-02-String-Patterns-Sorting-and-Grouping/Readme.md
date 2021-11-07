@@ -1,6 +1,6 @@
 # String Patterns, Sorting and Grouping
 
-## Create Tables for 'HR' Database - `[Exercise-02-Create-Tables.sql](Exercise-02-Create-Tables.sql)`
+## Create Tables for 'HR' Database - [`Exercise-02-Create-Tables.sql`](Exercise-02-Create-Tables.sql)
 
 ```sql
 ------------------------------------------
@@ -101,7 +101,7 @@ Please follow the steps below which explains the process of loading data into th
     
 10. Now follow the same steps for remaining tables of HR database – Locations, JobHistory, Jobs, and Departments.
 
-## Queries - `[Exercise-02-Queries.sql](Exercise-02-Queries.sql)`
+## Queries - [`Exercise-02-Queries.sql`](Exercise-02-Queries.sql)
 
 **Query 1: Retrieve all employees whose address is in Elgin,IL**
 
