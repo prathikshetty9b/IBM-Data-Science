@@ -1,4 +1,4 @@
-# Quiz 02 - Basic SQL
+# Basic SQL
 
 ### Question 1
 
