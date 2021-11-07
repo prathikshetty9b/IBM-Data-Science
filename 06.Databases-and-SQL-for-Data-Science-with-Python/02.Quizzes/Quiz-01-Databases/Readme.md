@@ -1,4 +1,4 @@
-# Quiz 01 - Databases
+# Databases
 
 ### Question 1
 
