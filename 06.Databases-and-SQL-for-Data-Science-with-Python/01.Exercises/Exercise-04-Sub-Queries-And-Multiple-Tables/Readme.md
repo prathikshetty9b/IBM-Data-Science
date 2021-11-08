@@ -1,9 +1,8 @@
 # Sub Queries and Multiple Tables
 
-<aside>
-📢 Note : Use the EMPLOYEES and DEPARTMENTS tables created previously in  [Exercise 02 - String Patterns, Sorting and Grouping](https://www.notion.so/Exercise-02-String-Patterns-Sorting-and-Grouping-5548f2b54fc24deb942b28e9d2a2d7fa)
 
-</aside>
+📢 Note : Use the EMPLOYEES and DEPARTMENTS tables created previously in  [Exercise 02](https://github.com/prathikshetty9b/IBM-Data-Science/tree/main/06.Databases-and-SQL-for-Data-Science-with-Python/01.Exercises/Exercise-02-String-Patterns-Sorting-and-Grouping)
+
 
 ## Sub Queries and Nested Selects : [`Sub-Queries.sql`](Exerciese-04-Sub-Queries.sql)
 
